@@ -9,6 +9,13 @@
 </div>
   
 <div><br>
+  <img alt="" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+  <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
+  <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img alt="" height="30" width="40" src="ttps://github.com/devicons/devicon/blob/master/icons/gcc/gcc-plain.svg">
+  <img alt="" height="30" width="40" src="ttps://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
   <img alt="" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
