@@ -16,13 +16,13 @@
   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-plain.svg">
-  <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
+<!--   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg"> -->
   <img alt="" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-  <img alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+<!--   <img alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+<!--   <img alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
+<!--   <img alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
+<!--   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"> -->
+<!--   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"> -->
   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img alt="j" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <!-- <img src="https://komarev.com/ghpvc/?username=LinuxLoverCoder&color=green" alt="LinuxLoverCoder" /> -->
