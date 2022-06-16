@@ -1,7 +1,7 @@
 <h1>Breno Santana | DevStorm.io</h1>
 <img src="https://komarev.com/ghpvc/?username=LinuxLoverCoder&color=blue" alt="LinuxLoverCoder" /> 
 
-- 👨🏻‍💻 Engenheiro de Software @ DevStorm
+- 👨🏻‍💻 Backend Engineer @ DevStorm
 <div>
   <a href="https://github.com/LinuxLoverCoder">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LinuxLoverCoder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
