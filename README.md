@@ -1,11 +1,11 @@
 <h1>Breno Santana | DevStorm.io</h1>
-<img src="https://komarev.com/ghpvc/?username=LinuxLoverCoder&color=blue" alt="LinuxLoverCoder" /> 
+<img src="https://komarev.com/ghpvc/?username=BrenoSantanaBruno&color=blue" alt="BrenoSantanaBruno" /> 
 
 - 👨🏻‍💻 Backend Engineer @ DevStorm
 <div>
-  <a href="https://github.com/LinuxLoverCoder">
+  <a href="https://github.com/BrenoSantanaBruno">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrenoSantanaBruno&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSantanaBrunor&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSantanaBruno&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
 <div><br>
@@ -25,7 +25,7 @@
 <!--   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"> -->
   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img alt="j" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <!-- <img src="https://komarev.com/ghpvc/?username=BrenoSantanaBruno&color=green" alt="LinuxLoverCoder" /> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=BrenoSantanaBruno&color=green" alt="BrenoSantanaBruno" /> -->
 </div>
   
   ##
@@ -37,5 +37,5 @@
   <a href="https://www.linkedin.com/in/brenosantanabruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
- <!-- ![Snake animation](https://github.com/linuxlovercoder/linuxlovercoder/blob/output/github-contribution-grid-snake.svg)-->
+ <!-- ![Snake animation](https://github.com/BrenoSantanaBruno/BrenoSantanaBruno/blob/output/github-contribution-grid-snake.svg)-->
 
