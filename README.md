@@ -4,8 +4,8 @@
 - 👨🏻‍💻 Backend Engineer @ DevStorm
 <div>
   <a href="https://github.com/LinuxLoverCoder">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LinuxLoverCoder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxLoverCoder&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrenoSantanaBruno&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSantanaBrunor&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
 <div><br>
@@ -25,7 +25,7 @@
 <!--   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"> -->
   <img alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img alt="j" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <!-- <img src="https://komarev.com/ghpvc/?username=LinuxLoverCoder&color=green" alt="LinuxLoverCoder" /> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=BrenoSantanaBruno&color=green" alt="LinuxLoverCoder" /> -->
 </div>
   
   ##
