@@ -1,4 +1,4 @@
-<h1>Breno Santana | DevStorm.io</h1>
+<h1>Breno Santana</h1>
 <img src="https://komarev.com/ghpvc/?username=BrenoSantanaBruno&color=blue" alt="BrenoSantanaBruno" /> 
 
 - 👨🏻‍💻 Backend Engineer @ DevStorm
